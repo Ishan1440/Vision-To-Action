@@ -1,7 +1,6 @@
 Vision to Action: A Project Blueprint Generator
 -----------------------------------------------
 
-**Overview**
 This Streamlit application leverages the power of Google's Generative AI to assist users in creating comprehensive project outlines. Users provide their project idea, desired project type, technology stack, and additional requirements. The application generates a detailed project blueprint, including core functionalities, technical architecture, development roadmap, and potential challenges. The application also aims to provide a visual preview of the project, currently under development.
 
 **Prerequisites**
