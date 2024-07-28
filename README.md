@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Vision to Action: A Project Blueprint Generator
 
 **Overview**
