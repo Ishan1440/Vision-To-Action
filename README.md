@@ -18,7 +18,7 @@ Vision to Action: A Project Blueprint Generator
     
 2.  Install the required dependencies using pip install -r requirements.txt.
     
-3.  Create a .env file and add your Google API key as the GOOGLE\_API\_KEY environment variable.   [1\. github.com](https://github.com/Thanawatttt/DiscordSlicer) [github.com](https://github.com/Thanawatttt/DiscordSlicer)
+3.  Create a .env file and add your Google API key as the GOOGLE\_API\_KEY environment variable.
     
 4.  Replace the placeholder project ID in the code with your actual project ID.
     
@@ -66,8 +66,6 @@ Vision to Action: A Project Blueprint Generator
     
 *   Expand the range of supported project types and technologies.
     
-
-**License**This project is licensed under the MIT License.
 
 **Note:**
 
