@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vision to Action: A Project Blueprint Generator
 
 **Overview**
@@ -41,3 +42,6 @@ This project is licensed under the MIT License.
 * Ensure proper security measures for your API key.
 * Consider adding error handling and user feedback mechanisms for a more robust application.
 * Explore additional features like project estimation or cost analysis.
+=======
+# Vision To Action
+>>>>>>> e99bc066b399a0c07bb08dce9fe9a14740663546
